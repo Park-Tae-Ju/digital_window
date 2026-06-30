@@ -59,9 +59,7 @@ digital-window-v2/
 
 A real-time face-tracking illusion system that makes a monitor appear as a window into another space.
 
-![demo](./assets/demo.gif)
-
-▶ [Demo Video (YouTube)](https://youtube.com/your-link)
+**Video is coming soon**
 
 ---
 
