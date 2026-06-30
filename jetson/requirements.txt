@@ -1,0 +1,17 @@
+# pip로 설치 가능한 패키지
+# Packages installable via pip
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# ----------------------------------------------------------------------------
+# 아래 패키지는 pip로 설치되지 않습니다 / The packages below are NOT pip-installable.
+#
+# jetson-inference, jetson-utils
+#   NVIDIA의 공식 빌드 스크립트 또는 JetPack 이미지를 통해 설치해야 합니다.
+#   Must be installed via NVIDIA's official build script or a JetPack image.
+#   참고 / Reference: https://github.com/dusty-nv/jetson-inference
+#
+# GStreamer + NVDEC 플러그인 (nvv4l2decoder, nvvidconv)
+#   JetPack SDK에 기본 포함되어 있습니다. 별도 설치가 보통 필요하지 않습니다.
+#   Included by default in the JetPack SDK. Separate installation is usually not required.
+# ----------------------------------------------------------------------------
