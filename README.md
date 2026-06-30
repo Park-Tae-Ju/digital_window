@@ -4,8 +4,7 @@
 
 ![demo](./assets/demo.gif)
 
-▶ [데모 영상 (YouTube)](https://youtube.com/your-link)
-
+**영상의 경우 현재 유튜브 업로드 중입니다.**
 
 ---
 
